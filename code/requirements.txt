@@ -1,0 +1,8 @@
+pandas 
+numpy 
+sklearn 
+deep-forest 
+xgboost 
+lightgbm 
+tensorflow 
+tensorflow_addons
